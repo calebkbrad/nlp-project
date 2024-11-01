@@ -6,6 +6,7 @@
 - esist
 
 # "Centrist" subreddits
+- politics
 - news
 - worldnews
 - politicalhumor
@@ -14,4 +15,4 @@
 - conservative
 - republican
 - libertarian
-- 
+- dailywire
